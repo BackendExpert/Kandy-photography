@@ -3,11 +3,13 @@ const navmenu = [
         id: 1,
         name: 'Home',
         link: '#',
+        submenu: [],
     },
     {
         id: 2,
         name: 'Articles',
         link: '#',
+        submenu: [],
     },
     {
         id: 3,
@@ -39,21 +41,25 @@ const navmenu = [
         id: 4,
         name: 'Photo Gallery',
         link: '#',
+        submenu: [],
     },
     {
         id: 5,
         name: 'Events',
         link: '#',
+        submenu: [],
     },
     {
         id: 6,
         name: 'About Us',
         link: '#',
+        submenu: [],
     },
     {
         id: 7,
         name: 'Contact',
         link: '#',
+        submenu: [],
     },
 ]
 
