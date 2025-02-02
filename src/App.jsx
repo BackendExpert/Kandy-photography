@@ -35,7 +35,7 @@ const App = () => {
     <BrowserRouter>
       <div
         className={`fixed top-0 w-full z-50 transition-transform duration-300 ${
-          showNavBar ? "translate-y-0" : "-translate-y-full"
+          showNavBar ? "translate-y-0" : "-translate-y-full "
         } `}
       >
         <Nav />
