@@ -10,7 +10,7 @@ const Footer = () => {
     <div className='relative md:px-24 px-4 pt-8 w-full bg-[url(https://wallpapercave.com/wp/wp4991569.jpg)] bg-cover bg-center'>
         <div className="absolute inset-0 bg-black opacity-40"></div>
         <div className="relative">
-            <div className="md:grid grid-cols-4 gap-4 py-16 text-white md:ml-0 ml-4">
+            <div className="grid xl:grid-cols-4 md:grid-cols-2 gap-4 py-16 text-white md:ml-0 ml-4">
                 <div className="w-full md:my-0 my-4">
                     <h1 className="text-4xl font-semibld">KandyPhoto</h1>
                     <p className="mt-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet animi eos sapiente praesentium iste. Iste sed, itaque ut quae, eveniet, amet cum natus nesciunt soluta necessitatibus dolorum sint nihil nulla.</p>

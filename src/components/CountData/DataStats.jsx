@@ -5,7 +5,7 @@ import CountUp from 'react-countup'
 const DataStats = () => {
   return (
     <div className='xl:px-24 px-4 my-8'>
-        <div className="xl:grid grid-cols-4 gap-4">
+        <div className="grid xl:grid-cols-4 md:grid-cols-2 gap-4">
         {
             countData.map((data, index) => {
                 return(
